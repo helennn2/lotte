@@ -691,11 +691,11 @@ body{font-family: 'Noto Sans KR', sans-serif;}
     .section8 .s8_right strong{padding-top: 5px;}
     .section8 .s8_right ul{margin-top: 14px;}
     .section8 .s8_right ul li{width: 60px; margin-right: 26px;}
-    .section9 .s9_bottom{background: url(../img/s9_m.png) no-repeat; width: 350px; height: 860px; padding: 0; margin: 10px auto;}
+    .section9 .s9_bottom{background: url(../img/s9_m.png) no-repeat; width: 300px; height: 900px; padding: 0; margin: 10px auto;}
     .section9 .s9_bottom a{width: 124px; height: 30px; line-height: 30px;}
-    .section9 .s9_bottom a.more01{position: absolute; top: 229px; left: 77px;}
+    .section9 .s9_bottom a.more01{position: absolute; top: 227px; left: 77px;}
     .section9 .s9_bottom a.more02{position: absolute; top: 521px; left: 78px;}
-    .section9 .s9_bottom a.more03{position: absolute; top: 795px; left:84px;} 
+    .section9 .s9_bottom a.more03{position: absolute; top: 818px; left:84px;} 
 
     #footer{display: none;}
     .mobile-footer{display: block;}
